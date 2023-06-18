@@ -1,7 +1,10 @@
-STAMPS
-![Stamp 0](stamps/0.png)
-![Stamp 1](stamps/1.png)
-![Stamp 2](stamps/2.png)
-![Stamp 3](stamps/3.png)
-![Stamp 4](stamps/4.png)
-![Stamp 5](stamps/5.png)
+# STAMPS
+<p align="center">
+<img src="stamps/0.png"  width="300">
+<img src="stamps/1.png"  width="300">
+<img src="stamps/2.png"  width="300">
+<img src="stamps/3.png"  width="300">
+<img src="stamps/4.png"  width="300">
+<img src="stamps/5.png"  width="300">
+</p>
+
