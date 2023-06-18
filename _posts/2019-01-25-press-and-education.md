@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Press and education"
+title:  "LGBTQ+ Youth Empowerment through Technology Education"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/7.jpg

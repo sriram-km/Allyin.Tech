@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tree of Codes"
+title:  "Virtual Reality and LGBTQ+ Experiences: Opening New Frontiers"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/2.jpg

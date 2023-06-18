@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We all wait for summer"
+title:  "Tech Startups Creating LGBTQ+-Friendly Work Environments"
 author: jane
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg

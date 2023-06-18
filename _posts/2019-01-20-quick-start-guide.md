@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quick Start Guide"
+title:  "The Role of Technology in Fostering LGBTQ+ Inclusivity at Work"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
+title:  "Tech Tools for Gender Identity Exploration and Support"
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
 ---

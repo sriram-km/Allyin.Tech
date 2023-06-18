@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Never stopped worrying or loving the bomb"
+title:  "Cybersecurity Concerns and LGBTQ+ Online Safety"
 author: sal
 categories: [ Jekyll ]
 image: assets/images/14.jpg

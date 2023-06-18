@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The first mass-produced book to deviate from a rectilinear format"
+title:  "The Impact of Data Privacy on LGBTQ+ Communities"
 author: sal
 categories: [ tutorial ]
 image: assets/images/17.jpg

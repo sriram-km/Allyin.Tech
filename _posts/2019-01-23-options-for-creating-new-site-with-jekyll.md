@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Options for creating a new site with Jekyll"
+title:  "The Rise of LGBTQ+ Influencers in the Tech Industry"
 author: jane
 categories: [ Jekyll, tutorial ]
 image: assets/images/13.jpg

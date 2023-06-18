@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "About Bundler"
+title:  "How LGBTQ+ Nonprofits Leverage Technology for Fundraising"
 author: sal
 categories: [ Jekyll ]
 image: assets/images/2.jpg

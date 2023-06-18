@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Red Riding Hood"
+title:  "The Evolution of LGBTQ+ Representation in Video Games"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
